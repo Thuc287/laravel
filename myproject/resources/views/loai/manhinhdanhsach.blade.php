@@ -32,7 +32,7 @@ Màn hình <span style="color: red;">danh sách</span>
         </tr>
         <tr>
             <td>data 1</td>
-            <td>data 2</td>
+            <td>data </td>
             <td>data 3</td>
         </tr>
     </tbody>
