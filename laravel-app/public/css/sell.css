@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(248, 244, 244);
+  font-family: cursive;
+}
+@media (max-width:750px){
+  #tt,.col-md-2{
+display: none;
+}
+.fooder{
+ display: block;
+}
+}
+
+.sell{
+border-top: 10px solid rgb(255, 255, 0);
+background-color: rgb(255, 255, 255);
+padding:0px 15px 15px 15px;
+margin-bottom: 10px;
+min-height: 390px;
+}
+.header{
+  color: red;
+  background-color: rgb(255, 255, 255);
+}
+a,.bt {
+  text-decoration: none;
+  color: black;
+  align-items: center;
+}
+#table{
+  width: 100%;
+}
+#fooder{
+background-color: rgba(190, 218, 118, 0.758);
+padding: 20px;
+margin:70px 10%;
+position: relative;
+}
+.btn-outline-secondary{
+  border : 3px solid rgb(83, 171, 1);
+  color: black;
+}
+.room{
+  height: 250px;
+}

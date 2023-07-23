@@ -1,0 +1,39 @@
+
+body{
+  background-color: rgb(255, 255, 255);
+
+}
+@media (max-width:750px){
+  #tt{
+display: none;
+}
+#menu{
+  display: flex;
+}
+.col-md-2,#tt{
+  display: none;
+  }
+#menu a{
+  padding: 10px;
+}
+}
+.header{
+
+  color: rgb(255, 0, 0);
+}
+a {
+  text-decoration: none;
+  align-items: center;
+}
+#menu{
+  text-align: center;
+  background-color: rgb(151, 191, 222);
+}
+.col-md-4 a{
+padding-right: 15px;
+  font-size: 17px;
+  color: black;
+}
+.col-md-8{
+  border-top: 8px solid red;
+}
