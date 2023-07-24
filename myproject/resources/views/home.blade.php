@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Nguyeenx cxuan thuc
                 </div>
             </div>
         </div>
